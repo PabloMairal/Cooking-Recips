@@ -1,0 +1,14 @@
+body{
+    background-color: lightpink;
+}
+
+.list{
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+}
+
+.header{
+    font-size: 45px;
+    color: palevioletred;
+    text-align: center;
+}

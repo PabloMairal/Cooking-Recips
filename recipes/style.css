@@ -1,0 +1,37 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.title{
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.image{
+    margin: 0 auto;
+    text-align: center;   
+}
+
+.subtitles{
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+.subtitles.steps{
+    text-align: center;
+}
+
+.text.steps{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.text{
+    color: gray;
+    text-align: left;
+    max-width:  fit-content;
+    font-size: 20px;
+}
+
+
+
